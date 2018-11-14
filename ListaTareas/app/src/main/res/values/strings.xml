@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ListaTareas</string>
+    <string name="pista_tarea">Escribe una tarea</string>
+    <string name="anadir_tarea">Añadir</string>
+    <string name="pendientes">Pendientes</string>v
+    <string name="hechas">Hechas</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="hacer">Hacer</string>
+    <string name="volver">Volver a pendientes</string>
+    <string name="estas_seguro">¿Estas Seguro?</string>
+    <string name="eliminar_tarea">Eliminar Tarea</string>
+    <string name="no">No</string>
+    <string name="si">Si</string>
+
+
+</resources>
